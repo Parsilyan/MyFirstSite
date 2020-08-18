@@ -15,6 +15,8 @@ $(document).ready(function () {
     speed: 500,
     easing: "ease",
     touchTreshhold: 10,
+    autoplay: true,
+    autoplaySpeed: 1500,
   });
 
   $(".review-poeples").slick({
